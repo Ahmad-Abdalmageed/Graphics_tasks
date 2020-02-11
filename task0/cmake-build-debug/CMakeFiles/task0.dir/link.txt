@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/task0.dir/main.c.o  -o task0 

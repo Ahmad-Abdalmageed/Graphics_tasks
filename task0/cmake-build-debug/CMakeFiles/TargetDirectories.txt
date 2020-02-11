@@ -1,0 +1,3 @@
+/home/ahmad/CLionProjects/Graphics tasks/Graphics_tasks/task0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmad/CLionProjects/Graphics tasks/Graphics_tasks/task0/cmake-build-debug/CMakeFiles/task0.dir
+/home/ahmad/CLionProjects/Graphics tasks/Graphics_tasks/task0/cmake-build-debug/CMakeFiles/edit_cache.dir
